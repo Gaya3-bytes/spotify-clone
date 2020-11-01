@@ -1,0 +1,43 @@
+.top {
+    background-color: rgb(243, 237, 237);
+}
+.headText{
+    margin: 30px;
+    font-size: 60px;
+    color: rgb(241, 33, 148);
+}
+.sideText{
+    margin: 30px;
+    font-size: 20px;
+    color: rgb(228, 83, 150);
+}
+.mainc{
+    
+    background-color: thistle;
+}
+.fun {
+    margin: 30px;
+    padding: 10px;
+    text-align: justify;
+    font-size: 60px;
+}
+
+.blink {
+    background-color: rgb(245, 179, 215);
+    font-size: 20px;
+}
+
+.aligned {
+    margin: 10px;
+    border: 1px solid black;
+}
+
+.align {
+    margin: 10px;
+}
+
+.searchBox {
+    margin: 20px;
+    width: 300px;
+    height: 60px;
+}
